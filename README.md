@@ -1,1 +1,1 @@
-# shortcuts
+# shortcuts for windows 11
