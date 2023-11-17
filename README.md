@@ -1,4 +1,4 @@
-## shortcuts for windows 11
+# Shortcuts for windows 11
 
 1) W + A = Quick Settings 
 2) W + C = Chat
