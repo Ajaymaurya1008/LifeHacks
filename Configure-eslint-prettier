@@ -1,0 +1,22 @@
+# Run the following commands in ypur project folder
+
+npm install --save-dev eslint prettier
+npm install --save-dev eslint-plugin-prettier eslint-config-prettier
+npm install @babel/eslint-parser
+
+## Create a file in the root directory with name 
+.eslintrc.json
+{
+    "extends": [
+        "plugin:prettier/recommended",
+        "parser:babel-eslint"
+    ]
+}
+
+## Create a file in the root directory with name 
+.prettierrc
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "printWidth": 80
+}
